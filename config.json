@@ -528,6 +528,7 @@
       {
         "geosite": [
           "oisd-nsfw",
+	  "oisd-full",
           "category-porn"
         ],
         "outbound": "18+"
